@@ -55,18 +55,6 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 18210}
-    - Class: 114
-      Script: {instanceID: 18212}
-    - Class: 114
-      Script: {instanceID: 18214}
-    - Class: 114
-      Script: {instanceID: 18216}
-    - Class: 114
-      Script: {instanceID: 18218}
-    - Class: 114
-      Script: {instanceID: 18258}
-    - Class: 114
       Script: {instanceID: 28460}
     - Class: 157
       Script: {instanceID: 0}
