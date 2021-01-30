@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Trial darkness scene.unity
+- path: Assets/Dimly-lit cave scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
